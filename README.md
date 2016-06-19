@@ -12,3 +12,6 @@ We have two way for sending Email Using Amazon SES and C#:
  - Verified sender email
  - Amazon Access Key
  - Amazon Secret Key
+
+
+Link on youtube: https://www.youtube.com/watch?v=6ZcT--tV8tc
